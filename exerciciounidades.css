@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: darkred;
+    text-align: center;
+
+}
+
+.menu {
+    margin-left: 15px;
+}
+
+header {
+    font-size: xx-large;
+    background-color: chocolate;
+    color: white;
+    width: 100vw;
+    height: 7vh;
+
+}
+
+.main {
+    font-size: xx-large;
+    color: white;
+    width: 100vw;
+    height: 93vh;
+    margin: 5vh;
+}
+
+p {
+    line-height: 150%;
+}
+
+button {
+    display: flex;
+}
+
+button:hover {
+    color: blue;
+}
+
+.footer {
+    color: black;
+    width: 100vw;
+    height: 5vh;
+    margin-top: 80px;
+}
+
+div {
+    text-align: center;
+}
+
+.centralizado {
+    display: block;
+    margin: 0 auto;
+}
